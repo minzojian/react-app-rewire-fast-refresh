@@ -1,0 +1,22 @@
+{
+  "name": "react-app-rewire-fast-refresh",
+  "version": "1.0.0",
+  "description": "Add react-refresh-webpack-plugin to a react-app-rewired config.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minzojian/react-app-rewire-fast-refresh.git"
+  },
+  "keywords": ["webpack", "react-app-rewired","react-refresh-webpack-plugin"],
+  "author": "Kent Wood",
+  "license": "MIT",
+  "homepage": "https://github.com/minzojian/react-app-rewire-fast-refresh",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3"
+  }
+}
